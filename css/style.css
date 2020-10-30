@@ -17,11 +17,10 @@ h1 {
 h3 {
   font-family: "Montserrat-black";
   font-weight: bold;
-  padding-bottom: 10%;
 }
 
 h2 {
-  font-size: 0S.5rem;
+  font-size: 1.5rem;
 }
 
 p {
@@ -31,7 +30,7 @@ p {
 
 h2 {
   font-family: "Montserrat-bold"
-  font-size: 2.5rem;
+  font-size: 3.5rem;
 }
 
 .container-fluid {
@@ -107,27 +106,21 @@ h2 {
 #testimonials {
   background-color: #d92027;
   font-size: 1.5rem;
-  padding: 7% 15%;
+  padding: 7% 5%;
   text-align: center;
   color: white;
 }
 
 .testimonials-image {
   border-radius: 100%;
-  width: 25%;
-  padding-top: 20px;
-}
-
-.testimonial-image {
-  border-radius: 100%;
-  width: 25%;
-  padding-top: 20px;
+  width: 15%;
+  padding-top: 10px;
 }
 
 #press {
-  background-color: #d92027;
+  background-color: white;
+  padding: 7% 15%;
   text-align: center;
-  padding-bottom: 3%;
 }
 
 #pricing {
@@ -137,7 +130,7 @@ h2 {
 }
 
 .press-image {
-  width: 15%;
+  width: 20%;
   margin: 20px 15px 50px;
 }
 
@@ -146,8 +139,9 @@ h2 {
 }
 
 .h2text {
-  font-size: 2.5rem;
+  font-size: 3rem;
   font-weight: bold;
+  line-height: 1.5:
 }
 
 .card-header {
@@ -155,14 +149,13 @@ h2 {
 }
 
 #footer {
-  background-color: white;
+  background-color: #d92027;
   color: black;
   position: relative;
-  height: 100px;
+  height: 150px;
   bottom: 0;
   width: 100%;
-  text-align: center;
-  padding-top: 40px;
+
 }
 
 #cta {
@@ -182,31 +175,53 @@ h2 {
 #title {
   text-align: center;
 }
-
-.row-header {
-  text-align: center;
-}
   .title-image {
     position: static;
-    padding-top: 10%;
-    text-align: center;
     transform: rotate(0);
   }
 }
 
 #h3font {
-  font-size: 2.5rem;
+  font-size: 4rem;
   line-height: 1.5;
+  text-align: center;
 }
 
 .facebook {
 color: #3b5998;
-border-style: none;
+background-color: inherit;
+border: 0;
 }
 
+.facebook:hover {
+  background-color: inherit;
+  color: white;
+  border: 0;
+}
 .twitter {
-  color: #00ACEE;
+  color: #00acee;
+  background-color: inherit;
+  border: 0;
 }
 .twitter:hover {
+  background-color: inherit;
   color: white;
+}
+
+.download-button2 {
+  margin: 1% 2% 0% 0%
+}
+
+.footertext {
+text-align: center;
+padding-top: 2%
+}
+
+#h2aplan {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+#psimple {
+  padding-bottom: 3%;
 }
