@@ -179,6 +179,8 @@ h2 {
     position: static;
     transform: rotate(0);
   }
+
+
 }
 
 #h3font {
@@ -224,4 +226,8 @@ padding-top: 3%
 
 #psimple {
   padding-bottom: 3%;
+}
+
+.navbar-brand {
+  color: white !important;
 }
