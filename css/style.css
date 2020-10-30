@@ -182,6 +182,10 @@ h2 {
 #title {
   text-align: center;
 }
+
+h3 {
+  text-align: center;
+}
   .title-image {
     position: static;
     padding-top: 10%;
