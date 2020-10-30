@@ -183,7 +183,7 @@ h2 {
 }
   .title-image {
     position: static;
-    width: 20%;
+    text-align: center;
     transform: rotate(0);
   }
 }
